@@ -1,4 +1,4 @@
 ;WWW.RITIKBANGER.ME.                     IN      A
-WWW.RITIKBANGER.ME.              3592    IN      CNAME   RITIKBANGER.github.io.
+WWW.RITIKBANGER.ME.              3592    IN      CNAME   RITIKBANGER.ME.
 ritikbanger.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
 GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
