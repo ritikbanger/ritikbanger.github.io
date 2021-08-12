@@ -80,6 +80,7 @@ $(document).ready(function(){
   "outerHeight": 30
 }
  magicMouse(options);
+    prettier();
     
 
 });
